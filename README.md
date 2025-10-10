@@ -30,7 +30,7 @@ It features a clean graphical interface built with [CustomTkinter](https://githu
 
 ## 📦 Installation
 
-1. [Download source code]()
+1. [Download source code](https://github.com/kranoley/Seed-Gen-and-Check/archive/refs/heads/main.zip)
    
 2. Install dependencies
 
