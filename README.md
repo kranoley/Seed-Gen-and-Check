@@ -13,7 +13,7 @@ _A Bitcoin wallet generator and balance checker_
 **Seed Gen & Check** is a desktop tool for generating random Bitcoin wallets (mnemonic phrase → private key → address) and checking their balances directly via the [Blockchain.info API](https://www.blockchain.com/api/blockchain_api).  
 It features a clean graphical interface built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) and supports multi-threaded scanning with optional proxy support.
 
-
+<img src="https://t.bkit.co/w_68ea046e1a992.gif" />
 
 ---
 
