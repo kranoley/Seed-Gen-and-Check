@@ -18,3 +18,5 @@ def generate_wallet():
         "private_key": priv_key,
         "address": address
     }
+
+
