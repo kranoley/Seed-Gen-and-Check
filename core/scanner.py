@@ -5,7 +5,6 @@ import os
 from .wallet import generate_wallet
 from .blockchain import check_balance
 
-
 class BitcoinScanner:
     def __init__(self, settings, proxy_line="", on_log=None, on_found=None, on_stop=None):
         self.settings = settings
