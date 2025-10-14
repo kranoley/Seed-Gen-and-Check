@@ -4,6 +4,7 @@ import customtkinter as ctk
 from core.scanner import BitcoinScanner  
 
 class BitcoinScannerApp:
+    
     def __init__(self, root):
         self.root = root
         self.root.title("Bitcoin Wallet Scanner")
