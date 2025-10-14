@@ -3,7 +3,6 @@ import threading
 import customtkinter as ctk
 from core.scanner import BitcoinScanner  
 
-
 class BitcoinScannerApp:
     def __init__(self, root):
         self.root = root
