@@ -1,5 +1,6 @@
 import requests
 
+
 def check_balance(address, proxy_line="", proxy_format="{proxy}", proxy_type="http", timeout=10):
 
     url = f"https://blockchain.info/rawaddr/{address}"
