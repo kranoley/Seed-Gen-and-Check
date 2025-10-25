@@ -1,1 +1,1 @@
-print(" core Initialized")
+print("core Initialized")
