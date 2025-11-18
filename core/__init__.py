@@ -1,1 +1,1 @@
-print("core Initialized")
+"""Core modules for Bitcoin wallet generation and scanning."""
