@@ -8,7 +8,7 @@ _A Bitcoin wallet generator and balance checker_
 
 ---
 
-## 🌍 Overview
+##  Overview
 
 **Seed Gen & Check** is a desktop tool for generating random Bitcoin wallets (mnemonic phrase → private key → address) and checking their balances directly via the [Blockchain.info API](https://www.blockchain.com/api/blockchain_api).  
 It features a clean graphical interface built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) and supports multi-threaded scanning with optional proxy support.
@@ -16,18 +16,18 @@ It features a clean graphical interface built with [CustomTkinter](https://githu
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔐 **Mnemonic-based wallet generation** (BIP-39 style)
-- ⚡ **Multi-threaded scanning** for performance
-- 🌐 **Live balance checking** via Blockchain.info API
-- 🧩 **Proxy support** (HTTP/SOCKS)
-- 💾 **Automatic results saving** (found wallets → `results.txt`)
-- 🎨 **Modern dark-themed GUI**
+-  **Mnemonic-based wallet generation** (BIP-39 style)
+-  **Multi-threaded scanning** for performance
+-  **Live balance checking** via Blockchain.info API
+-  **Proxy support** (HTTP/SOCKS)
+-  **Automatic results saving** (found wallets → `results.txt`)
+-  **Modern dark-themed GUI**
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. [Download source code](https://github.com/kranoley/Seed-Gen-and-Check/archive/refs/heads/main.zip)
    
@@ -49,7 +49,7 @@ or install manually:
 
 ---
 
-🖥️ Usage
+ Usage
 
 1. Launch the app — the interface opens in a dark theme.
 
@@ -79,7 +79,7 @@ Proxy type and format (optional)
 
 
 
-⚠️ Legal & Ethical Notice
+ Legal & Ethical Notice
 
 This software must not be used for illegal activities.
 The author assume no responsibility for misuse or violations of applicable laws.
