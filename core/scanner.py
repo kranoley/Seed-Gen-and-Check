@@ -2,6 +2,7 @@ import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 import os
+
 from .wallet import generate_wallet
 from .blockchain import check_balance
 
