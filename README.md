@@ -78,7 +78,6 @@ Proxy type and format (optional)
 ---
 
 
-
  Legal & Ethical Notice
 
 This software must not be used for illegal activities.
