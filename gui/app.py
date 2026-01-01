@@ -1,6 +1,7 @@
 import os
 import threading
 import customtkinter as ctk
+
 from core.scanner import BitcoinScanner  
 
 
